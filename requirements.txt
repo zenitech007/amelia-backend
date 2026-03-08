@@ -1,1 +1,6 @@
-pip freeze > requirements.txt
+fastapi
+uvicorn
+supabase
+python-dotenv
+openai
+pydantic
