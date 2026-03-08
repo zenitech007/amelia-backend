@@ -28,7 +28,7 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -314,3 +314,7 @@ def chat(request: ChatRequest):
         memory.append({"role": "assistant", "content": full_answer})
 
     return StreamingResponse(generate_response(), media_type="text/plain")
+
+@app.get("/")
+def home():
+    return {"status": "AMELIA Backend is Online", "version": "1.0.0"}
