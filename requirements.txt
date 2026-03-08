@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 chromadb
+sentence-transformers
 google-genai
 openai
 python-dotenv
