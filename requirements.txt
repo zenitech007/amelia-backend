@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-supabase
-python-dotenv
+google-genai
 openai
+python-dotenv
 pydantic
