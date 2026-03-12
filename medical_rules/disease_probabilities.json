@@ -1,0 +1,59 @@
+{
+  "diseases": {
+
+    "malaria": {
+      "region": ["Africa", "Nigeria"],
+      "symptoms": [
+        "fever",
+        "chills",
+        "headache",
+        "sweating",
+        "fatigue"
+      ],
+      "recommended_tests": [
+        "malaria_rapid_test",
+        "blood_film_microscopy"
+      ]
+    },
+
+    "typhoid_fever": {
+      "region": ["Nigeria"],
+      "symptoms": [
+        "persistent_fever",
+        "abdominal_pain",
+        "fatigue",
+        "diarrhea"
+      ],
+      "recommended_tests": [
+        "widal_test",
+        "blood_culture",
+        "stool_culture"
+      ]
+    },
+
+    "cholera": {
+      "region": ["West Africa"],
+      "symptoms": [
+        "profuse_diarrhea",
+        "vomiting",
+        "severe_dehydration"
+      ],
+      "recommended_tests": [
+        "stool_test"
+      ]
+    },
+
+    "tuberculosis": {
+      "symptoms": [
+        "chronic_cough",
+        "night_sweats",
+        "weight_loss",
+        "blood_in_sputum"
+      ],
+      "recommended_tests": [
+        "sputum_smear",
+        "chest_xray"
+      ]
+    }
+  }
+}

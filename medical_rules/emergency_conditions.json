@@ -1,0 +1,46 @@
+{
+  "emergencies": [
+
+    {
+      "condition": "stroke",
+      "symptoms": [
+        "facial_drooping",
+        "slurred_speech",
+        "arm_weakness"
+      ],
+      "action": "Seek emergency medical care immediately.",
+      "emergency_numbers": ["112", "767"]
+    },
+
+    {
+      "condition": "cardiac_arrest",
+      "symptoms": [
+        "loss_of_consciousness",
+        "no_breathing",
+        "no_pulse"
+      ],
+      "action": "Call emergency services immediately and begin CPR if trained."
+    },
+
+    {
+      "condition": "severe_dehydration",
+      "symptoms": [
+        "profuse_diarrhea",
+        "vomiting",
+        "weakness"
+      ],
+      "action": "Urgent hospital treatment with IV fluids required."
+    },
+
+    {
+      "condition": "snakebite",
+      "symptoms": [
+        "snake_bite",
+        "severe_pain",
+        "swelling"
+      ],
+      "action": "Immobilize patient and transport urgently for antivenom."
+    }
+
+  ]
+}

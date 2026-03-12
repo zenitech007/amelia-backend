@@ -1,5 +1,350 @@
-The recommended first-line treatment for seasonal allergic rhinitis (hay fever) includes intranasal corticosteroids, such as fluticasone, and oral second-generation antihistamines like cetirizine or loratadine.
-According to the American Heart Association, a normal resting blood pressure reading is strictly less than 120/80 mm Hg. Readings consistently above 130/80 mm Hg are classified as Stage 1 Hypertension and require lifestyle changes or medication.
-A concussion is a type of traumatic brain injury caused by a bump, blow, or jolt to the head. Symptoms can include headache, confusion, lack of coordination, memory loss, nausea, and dizziness. Immediate rest and avoidance of screen time for 48 hours is highly recommended.
-The Zenith Dietary Protocol recommends consuming at least 30 grams of fiber daily to maintain optimal gut flora, which has been directly linked to improved immune system response and reduced systemic inflammation.
-To treat a minor first-degree burn, immediately run cool (not cold) water over the burn for 10 to 15 minutes. Do not apply ice, butter, or ointments immediately, as this can trap heat. Apply a sterile, non-adhesive bandage once the area is cooled.
+TITLE: Peptic Ulcer Disease (PUD)
+CATEGORY: Gastroenterology
+
+OVERVIEW:
+Peptic ulcer disease occurs when the protective lining of the stomach or duodenum becomes damaged, often due to Helicobacter pylori infection or chronic NSAID use.
+
+COMMON SYMPTOMS:
+Burning stomach pain
+Pain worse on empty stomach
+Bloating
+Nausea
+Loss of appetite
+
+DIET GUIDANCE (NIGERIA):
+Avoid heavily spiced foods such as pepper soup, suya, and raw scotch bonnet pepper (ata rodo).
+Avoid excessive palm oil and alcohol.
+
+RECOMMENDED MANAGEMENT:
+Use antacids or Proton Pump Inhibitors (PPIs) such as omeprazole under medical supervision.
+
+MEDICATION WARNINGS:
+Avoid NSAIDs such as ibuprofen or diclofenac because they worsen gastric ulcers.
+
+CLINICAL NOTE:
+Untreated ulcers can lead to bleeding or stomach perforation.
+
+REGION: Nigeria
+---
+
+TITLE: Hypertension Lifestyle Management
+CATEGORY: Cardiovascular Medicine
+
+OVERVIEW:
+Hypertension is highly prevalent in West Africa and is a major risk factor for stroke, kidney disease, and heart failure.
+
+SYMPTOMS:
+Often asymptomatic
+Headaches
+Dizziness
+Blurred vision
+
+DIET GUIDANCE:
+Reduce sodium intake.
+
+COMMON NIGERIAN HIGH-SODIUM SOURCES:
+Bouillon cubes (Maggi, Knorr)
+Salted meats
+Processed foods
+
+RECOMMENDED FOODS:
+Bananas
+Avocados
+Leafy vegetables
+Beans
+
+CLINICAL GUIDANCE:
+Encourage regular blood pressure monitoring.
+
+RISK THRESHOLD:
+Blood pressure above 130/80 mmHg is considered elevated.
+
+REGION: West Africa
+---
+
+TITLE: Type 2 Diabetes Management
+CATEGORY: Endocrinology
+
+OVERVIEW:
+Type 2 diabetes occurs when the body cannot effectively regulate blood glucose levels.
+
+SYMPTOMS:
+Frequent urination
+Excessive thirst
+Fatigue
+Blurred vision
+Slow wound healing
+
+HIGH GLYCEMIC FOODS COMMON IN NIGERIA:
+Polished white rice
+Cassava-based foods such as fufu or eba
+Sugary drinks
+
+LOWER GLYCEMIC ALTERNATIVES:
+Unripe plantain flour
+Guinea corn (sorghum)
+Millet
+Fonio (acha)
+Ofada rice
+
+CLINICAL GUIDANCE:
+Emphasize portion control and regular fasting blood glucose monitoring.
+
+RISK:
+Poorly controlled diabetes may cause kidney failure, nerve damage, and blindness.
+
+REGION: Nigeria
+---
+
+TITLE: Malaria Clinical Presentation
+CATEGORY: Infectious Disease
+
+OVERVIEW:
+Malaria is a mosquito-borne parasitic infection common in tropical regions.
+
+COMMON SYMPTOMS:
+High fever
+Chills
+Sweating
+Headache
+Body pain
+Fatigue
+
+DIAGNOSTIC TESTS:
+Malaria rapid diagnostic test
+Microscopy blood film
+
+CLINICAL NOTE:
+Symptoms may resemble viral infections or typhoid fever.
+
+PREVENTION:
+Sleep under insecticide-treated nets
+Remove stagnant water near homes
+
+REGION: Sub-Saharan Africa
+---
+
+TITLE: Typhoid Fever
+CATEGORY: Infectious Disease
+
+OVERVIEW:
+Typhoid fever is caused by Salmonella typhi bacteria transmitted through contaminated food or water.
+
+SYMPTOMS:
+Persistent fever
+Abdominal pain
+Weakness
+Diarrhea or constipation
+Loss of appetite
+
+DIAGNOSTIC TESTS:
+Blood culture
+Stool culture
+Widal test
+
+MEDICAL WARNING:
+Do not self-medicate with antibiotics without laboratory confirmation.
+
+REGION: Nigeria
+---
+
+TITLE: Lassa Fever Emergency Protocol
+CATEGORY: Viral Hemorrhagic Fever
+
+OVERVIEW:
+Lassa fever is a viral hemorrhagic illness transmitted through exposure to infected rodents.
+
+EARLY SYMPTOMS:
+Fever
+Weakness
+Headache
+
+SEVERE SYMPTOMS:
+Facial swelling
+Bleeding
+Shock
+
+ACTION:
+Immediate hospital isolation required.
+
+REPORTING:
+Contact the Nigeria Centre for Disease Control (NCDC).
+
+EMERGENCY HOTLINE:
+6232
+
+REGION: Nigeria
+---
+
+TITLE: Cholera Outbreak Response
+CATEGORY: Infectious Disease
+
+OVERVIEW:
+Cholera is a severe bacterial infection causing profuse watery diarrhea.
+
+SYMPTOMS:
+Rice-water stool
+Vomiting
+Rapid dehydration
+Weakness
+
+IMMEDIATE RESPONSE:
+Administer Oral Rehydration Solution (ORS).
+
+SEVERE CASES:
+Require intravenous fluids at a hospital.
+
+PREVENTION:
+Drink only boiled or treated water.
+
+REGION: West Africa
+---
+
+TITLE: Tuberculosis Detection
+CATEGORY: Respiratory Disease
+
+OVERVIEW:
+Tuberculosis is a contagious bacterial infection affecting the lungs.
+
+KEY SYMPTOMS:
+Cough lasting longer than 2–3 weeks
+Night sweats
+Weight loss
+Blood in sputum
+
+TREATMENT:
+Directly Observed Treatment Short-course (DOTS) lasting six months.
+
+NOTE:
+Treatment is available free at many Nigerian government clinics.
+
+REGION: Nigeria
+---
+
+TITLE: Snakebite Emergency First Aid
+CATEGORY: Emergency Medicine
+
+OVERVIEW:
+Snakebite envenomation can be life-threatening and requires urgent hospital treatment.
+
+FIRST RESPONSE:
+Keep patient calm and still.
+Keep affected limb below heart level.
+
+DO NOT:
+Cut the wound
+Attempt to suck out venom
+Apply tight tourniquets
+
+ACTION:
+Transport immediately to hospital for antivenom treatment.
+
+REGION: Africa
+---
+
+TITLE: Sickle Cell Disease (SS Genotype)
+CATEGORY: Hematology
+
+OVERVIEW:
+Sickle cell disease is a genetic blood disorder causing red blood cells to become rigid and sickle-shaped.
+
+COMMON COMPLICATIONS:
+Pain crises
+Severe anemia
+Infections
+
+TRIGGERS:
+Dehydration
+Malaria
+Extreme temperatures
+Stress
+
+DAILY MANAGEMENT:
+Drink 3–4 liters of water
+Take folic acid supplementation
+Prevent malaria infections
+
+REGION: Sub-Saharan Africa
+---
+
+TITLE: Asthma Management During Harmattan
+CATEGORY: Respiratory Disease
+
+OVERVIEW:
+Dust and dry air during the Harmattan season can trigger asthma attacks.
+
+SYMPTOMS:
+Wheezing
+Shortness of breath
+Chest tightness
+Coughing
+
+PREVENTION:
+Use inhaled corticosteroid preventers daily.
+Carry a reliever inhaler such as salbutamol.
+
+ADDITIONAL PROTECTION:
+Wear masks outdoors.
+Stay hydrated.
+
+REGION: West Africa
+---
+
+TITLE: Oral Rehydration Therapy
+CATEGORY: Gastroenterology
+
+OVERVIEW:
+Diarrhea and vomiting can rapidly cause dehydration in tropical climates.
+
+FIRST-LINE RESPONSE:
+Administer Oral Rehydration Salts (ORS).
+
+PREPARATION:
+Mix ORS with clean drinking water.
+
+ADDITIONAL SUPPORT:
+Zinc supplementation improves recovery.
+
+REGION: Tropical Regions
+---
+
+TITLE: Stroke Emergency Recognition
+CATEGORY: Emergency Medicine
+
+OVERVIEW:
+Stroke occurs when blood supply to the brain is interrupted.
+
+WARNING SIGNS:
+Facial drooping
+Arm weakness
+Slurred speech
+Sudden confusion
+
+EMERGENCY RESPONSE:
+Seek immediate medical care.
+
+LAGOS EMERGENCY NUMBERS:
+112
+767
+
+REGION: Nigeria
+---
+
+TITLE: Antibiotic Stewardship
+CATEGORY: Pharmacology
+
+OVERVIEW:
+Antibiotics do not treat viral infections such as common colds.
+
+COMMONLY MISUSED ANTIBIOTICS:
+Amoxicillin
+Tetracycline
+
+RISKS:
+Antimicrobial resistance
+Superbugs
+
+RECOMMENDED ACTION:
+Use antibiotics only when prescribed by qualified medical professionals.
+
+REGION: Global

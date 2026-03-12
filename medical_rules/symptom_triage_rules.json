@@ -1,0 +1,47 @@
+{
+  "triage_levels": {
+    "0-2": "Mild",
+    "3-5": "Moderate",
+    "6-8": "Concerning",
+    "9-10": "Emergency"
+  },
+
+  "symptom_weights": {
+    "fever": 3,
+    "high_fever": 5,
+    "chills": 2,
+    "severe_headache": 3,
+    "abdominal_pain": 3,
+    "vomiting": 3,
+    "diarrhea": 3,
+    "chest_pain": 8,
+    "shortness_of_breath": 8,
+    "confusion": 7,
+    "slurred_speech": 9,
+    "facial_drooping": 9,
+    "arm_weakness": 9,
+    "uncontrolled_bleeding": 10,
+    "loss_of_consciousness": 10,
+    "seizure": 10
+  },
+
+  "symptom_groups": {
+    "stroke": [
+      "facial_drooping",
+      "slurred_speech",
+      "arm_weakness"
+    ],
+
+    "dehydration": [
+      "vomiting",
+      "diarrhea",
+      "weakness"
+    ],
+
+    "infection": [
+      "fever",
+      "chills",
+      "fatigue"
+    ]
+  }
+}

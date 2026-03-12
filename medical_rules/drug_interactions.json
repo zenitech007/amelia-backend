@@ -1,0 +1,33 @@
+{
+  "interactions": [
+
+    {
+      "drug_a": "ibuprofen",
+      "drug_b": "diclofenac",
+      "severity": "high",
+      "warning": "Combining NSAIDs increases risk of stomach bleeding and ulcers."
+    },
+
+    {
+      "drug_a": "ibuprofen",
+      "drug_b": "omeprazole",
+      "severity": "moderate",
+      "warning": "Omeprazole may reduce stomach irritation caused by NSAIDs."
+    },
+
+    {
+      "drug_a": "ciprofloxacin",
+      "drug_b": "antimalarial",
+      "severity": "moderate",
+      "warning": "Concurrent use without confirmed infection increases antimicrobial resistance risk."
+    },
+
+    {
+      "drug_a": "salbutamol",
+      "drug_b": "beta_blocker",
+      "severity": "moderate",
+      "warning": "Beta blockers may reduce effectiveness of salbutamol inhalers."
+    }
+
+  ]
+}

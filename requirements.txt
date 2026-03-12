@@ -1,10 +1,8 @@
---extra-index-url https://download.pytorch.org/whl/cpu
-torch
 fastapi
 uvicorn
+pydantic
+python-dotenv
+openai
+google-genai
 chromadb
 sentence-transformers
-google-genai
-openai
-python-dotenv
-pydantic
