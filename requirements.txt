@@ -1,8 +1,9 @@
 fastapi
 uvicorn
 pydantic
-python-dotenv
-openai
 google-genai
+openai
 chromadb
 sentence-transformers
+python-dotenv
+supabase
